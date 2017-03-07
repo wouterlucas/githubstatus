@@ -1,0 +1,20 @@
+{
+  "name": "githubstatuspusher",
+  "version": "0.1.0",
+  "description": "GitHub status pusher",
+  "main": "githubstatus.js",
+  "scripts": {
+    "start": "node githubstatus.js"
+  },
+  "dependencies": {
+    "async": "~1.5.x",
+    "minimist": "~1.2.x",
+    "github": "^9.1.0"
+  },
+  "keywords": [
+    "node",
+    "automation"
+  ],
+  "author": "wouterlucas.com",
+  "license": "MIT"
+}
